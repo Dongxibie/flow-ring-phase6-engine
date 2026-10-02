@@ -11,4 +11,7 @@
   <ItemGroup>
     <ProjectReference Include="..\RingCore\RingCore.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="System.Text.Json" />
+  </ItemGroup>
 </Project>
